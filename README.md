@@ -24,7 +24,7 @@
 
 ---
 
-## 🇬🇧
+## 🇺🇸
 
 Hi! **erkv** (that's me) created this program purely for fun, and it allows you to change the usual boring  
 Windows system sounds(booooo) to the **voice of Konata Izumi**(yey!!!!)! Isn't that cool? Of course it is.
@@ -37,9 +37,8 @@ There are two of them:
 - Critical error  
 - Information
 
-💾 When you open the program for the first time, it will **create a backup copy** of your sound scheme  
+💾 When you open the program for the first time, it will **automatically create a backup copy** of your sound scheme  
 so that you can roll back if necessary. The file will be called `firstbackup`.
 
 You can also create a backup copy yourself — in point 4.  
 **Enjoy!**
-"# konatafier" 
