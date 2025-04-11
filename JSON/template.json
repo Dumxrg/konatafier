@@ -1,0 +1,58 @@
+{
+  "config": {
+    "lang": "",
+    "option": "",
+    "version": ""
+  },
+  "greetings": {
+    "welcome_text": ""
+  },
+  "main_menu": {
+    "welcome": "",
+    "option_1": "",
+    "option_2": "",
+    "option_3": "",
+    "option_4": "",
+    "option_5": "",
+    "option_6": "",
+    "option_7": "",
+    "choose_option": ""
+  },
+  "exceptions": {
+    "error": "",
+    "continue": ""
+  },
+  "create_backup": {
+    "backup_created": "",
+    "backup_error": ""
+  },
+  "backup_menu": {
+    "backup_menu": "",
+    "option_1": "",
+    "option_2": "",
+    "choices": {
+      "choice_1": "",
+      "space_in_filename": ""
+    }
+  },
+  "load_backup_sounds": {
+    "backup_error": "",
+    "restored_sound": ""
+  },
+  "applying_custom_sounds": {
+    "applying_custom_sounds": "",
+    "checking_file": "",
+    "file_found": "",
+    "success": "",
+    "not_success": "",
+    "not_found": "",
+    "files_replaced": ""
+  },
+  "toggle_logon_sounds": {
+    "enabled": ""
+  },
+  "change_sounds": {
+    "change": "",
+    "reset": ""
+  }
+}

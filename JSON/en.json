@@ -1,0 +1,63 @@
+{
+  "config": {
+    "lang": "en",
+    "option": 1,
+    "version": "V 0.2"
+  },
+  "greetings": {
+    "welcome_text": "Running KONATAFIER v0.2 by erkv! By proceeding, you confirm that you have read our LICENSE.\nAvailable in\nhttps://github.com/er1k0v/konatafier/blob/main/LICENSE"
+  },
+  "main_menu": {
+    "welcome": "Welcome to the Konatafier!",
+    "option_1": "Option 1 - Change system sounds",
+    "option_2": "Option 2 - Reset",
+    "option_3": "Option 3 - Logon Sound Settings",
+    "option_4": "Option 4 - Backup",
+    "option_5": "Option 5 - Change language",
+    "option_6": "Option 6 - Sound Test",
+    "option_7": "Option 7 - Exit",
+    "choose_option": "Choose beetween (1-7)"
+  },
+
+  "exceptions": {
+    "error": "Unexpected error",
+    "continue": "\nPress Enter to continue..."
+  },
+
+  "create_backup": {
+    "backup_created": ":D Backup created: ",
+    "backup_error": ":( Error creating backup: "
+  },
+
+  "backup_menu": {
+    "backup_menu": "Backup Menu\n",
+    "option_1": "1) Create backup",
+    "option_2": "2) Back to main menu",
+    "choices": {
+      "choice_1": "(⌐■_■) Enter filename (no spaces!) or press Enter for automatic name: ",
+      "space_in_filename": "[!] :( Filename should not contain spaces!"
+    }
+  },
+
+  "load_backup_sounds": {
+    "backup_error": ":( Backup not found, cannot restore.",
+    "restored_sound": "\n:) Sounds restored from backup"
+  },
+  "applying_custom_sounds": {
+    "applying_custom_sounds": "\nApplying custom sounds...\n",
+    "checking_file": "\nChecking file: ",
+    "file_found": "File found, trying to install...",
+    "success": " — success :)",
+    "not_success": " — error :(",
+    "not_found": " — file not found",
+    "files_replaced": "\n:D All sounds replaced successfully!"
+  },
+
+  "toggle_logon_sounds": {
+    "enabled": "Logon sound Settings"
+  },
+  "change_sounds": {
+    "change": "Are you sure you want to make you PC awesome (change the sounds)? (y/n): ",
+    "reset": "Are you sure you want to make your PC serious (restore sounds?) (y/n): "
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "config": {
+    "lang": "es",
+    "option": 1,
+    "version": 2
+  },
+  "greetings": {
+    "welcome_text": "¡Ejecutando KONATAFIER v0.2 por erkv! Al continuar, confirmas que has leído nuestra LICENCIA.\nDisponible en\nhttps://github.com/er1k0v/konatafier/blob/main/LICENSE"
+  },
+  "main_menu": {
+    "welcome": "¡Bienvenido a Konatafier!",
+    "option_1": "1) Cambiar sonidos del sistema",
+    "option_2": "2) Restaurar sonidos originales",
+    "option_3": "3) Activar/desactivar sonido de inicio de sesión",
+    "option_4": "4) Copia de seguridad",
+    "option_5": "5) Cambiar idioma/Change language",
+    "option_6": "6) Probar sonidos",
+    "option_7": "7) Salir",
+    "choose_option": "Elige una opción (1-7): "
+  },
+  "exceptions": {
+    "error": ":( Opción no válida.",
+    "continue": "\nPresiona Enter para continuar..."
+  },
+  "create_backup": {
+    "backup_created": ":) Copia de seguridad creada: ",
+    "backup_error": ":( Error al crear la copia de seguridad: "
+  },
+  "backup_menu": {
+    "backup_menu": "Menú de copia de seguridad\n",
+    "option_1": "1) Crear copia de seguridad",
+    "option_2": "2) Volver al menú principal",
+    "choices": {
+      "choice_1": "(⌐■_■) Ingresa el nombre del archivo (¡sin espacios!) o presiona Enter para un nombre automático:",
+      "space_in_filename": "[!] :( ¡El nombre del archivo no debe contener espacios!"
+    }
+  },
+  "load_backup_sounds": {
+    "backup_error": ":( No se encontró la copia de seguridad, no se puede restaurar.",
+    "restored_sound": "\n:) Sonidos restaurados desde la copia de seguridad"
+  },
+  "applying_custom_sounds": {
+    "applying_custom_sounds": "\nAplicando sonidos personalizados...\n",
+    "checking_file": "\nVerificando archivo: ",
+    "file_found": "Archivo encontrado, intentando aplicar...",
+    "success": " — exitoso",
+    "not_success": " — error al aplicar",
+    "not_found": " — archivo no encontrado",
+    "files_replaced": "\n:D ¡Todos los sonidos se han reemplazado exitosamente!"
+  },
+  "toggle_logon_sounds": {
+    "enabled": "Activar/desactivar sonido de inicio de sesión"
+  },
+  "change_sounds": {
+    "change": "¿Estás seguro de que quieres hacer tu computadora genial (cambiar sonidos)? (y/n): ",
+    "reset": "¿Estás seguro de que quieres hacer tu computadora seria (restaurar sonidos)? (y/n): "
+  }
+}
